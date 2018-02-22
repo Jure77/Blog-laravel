@@ -1,0 +1,39 @@
+.card {
+    background-color: #00994d !important;
+}
+
+.card-body {
+    background-color: white;
+    color: black;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.card-footer {
+    background-color: white;
+    color: black;
+}
+
+.card-text  {
+    padding-left: 5%;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.card-header {
+    color: black;
+    font-family: sans-serif;
+}
+
+a, i {
+    color: #737373;
+}
+
+a:hover {
+    color: #134d00;
+}
+
+
+

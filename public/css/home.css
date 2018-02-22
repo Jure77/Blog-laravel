@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  margin-top: 5%;
+  font-family: "Times New Roman", Times, serif;
+  color: rgba(7, 63, 20, 0.747);
+}
+
+h4 {
+  color: rgba(161, 168, 168, 0.486);
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}

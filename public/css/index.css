@@ -1,0 +1,15 @@
+a {
+    color: black;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.table tr td {
+    background-color: #cccccc;
+    
+}
+

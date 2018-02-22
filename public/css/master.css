@@ -1,0 +1,18 @@
+body {
+    margin-bottom: 10px;
+}
+
+.navbar {
+    background-color:#1a1a1a;
+}
+
+.nav-link {
+    color: #008000 !important;
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+.navbar-brand img {
+    width: 40px;
+    height: 40px;
+}
